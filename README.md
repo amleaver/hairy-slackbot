@@ -1,2 +1,2 @@
 # hairy-slackbot
-Like slackbot, but hairier
+Like slackbot, but hairier and betterer
